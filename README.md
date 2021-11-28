@@ -13,4 +13,4 @@ python  main.py --input path/to/image.jpg
 ![](https://github.com/Shahrullo/ObjectExtraction/blob/main/outputs/woman_contour.png)
 ![](https://github.com/Shahrullo/ObjectExtraction/blob/main/outputs/woman_foreground.png)
 ![](https://github.com/Shahrullo/ObjectExtraction/blob/main/outputs/woman_foreground_mask.png)
-![](https://github.com/Shahrullo/ObjectExtraction/blob/main/outputs/woman_new_background.png)
+![](https://github.com/Shahrullo/ObjectExtraction/blob/main/outputs/woman_new_background.jpg)
