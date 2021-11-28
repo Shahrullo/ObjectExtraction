@@ -6,4 +6,5 @@ We only need NumPy and OpenCV to run the project
 pip install requirements.txt
 ```
 Then,
-`python  main.py --input path/to/image.jpg`
+```python  main.py --input path/to/image.jpg
+```
